@@ -1,0 +1,27 @@
+body
+{
+	margin: 40px 120px;
+}
+
+@media screen only and (max-width: 100)
+{
+	body
+	{
+		margin: 20px 60px;
+	}
+}
+
+
+.demo
+{
+	border-style: solid;
+	border-width: 2px;
+	padding: 20px;
+}
+
+td
+{
+	border-style-right: solid;
+	border-width-right: 2px;
+	border-color-right: black;
+}
