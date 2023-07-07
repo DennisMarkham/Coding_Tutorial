@@ -3,7 +3,7 @@ body
 	margin: 40px 120px;
 }
 
-@media screen only and (max-width: 100)
+@media screen only and (max-width: 1000px)
 {
 	body
 	{
@@ -24,4 +24,11 @@ td
 	border-style-right: solid;
 	border-width-right: 2px;
 	border-color-right: black;
+}
+
+
+pre, .demo
+{
+	margin-bottom: 40px;
+	margin-top: 10px;
 }
